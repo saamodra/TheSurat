@@ -1,0 +1,370 @@
+[2018-02-06:14:44:46] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:14:44:46] INSERT INTO bagian(bagian, keterangan) VALUES (sads,saddsa)
+
+[2018-02-06:15:29:38] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:29:42] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:29:42] INSERT INTO bagian(bagian, keterangan) VALUES (saddsa,sdads)
+
+[2018-02-06:15:30:01] UPDATE bagian SET bagian = saddsass, keterangan = sdads WHERE bagian_id=74
+
+[2018-02-06:15:31:10] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:31:32] DELETE FROM bagian WHERE bagian_id = 74
+
+[2018-02-06:15:32:11] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:32:13] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:32:18] INSERT INTO bagian(bagian, keterangan) VALUES (asd,asd)
+
+[2018-02-06:15:32:19] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:32:22] DELETE FROM bagian WHERE bagian_id = 75
+
+[2018-02-06:15:32:22] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:32:45] INSERT INTO bagian(bagian, keterangan) VALUES (sadads,dassad)
+
+[2018-02-06:15:32:46] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:32:56] DELETE FROM bagian WHERE bagian_id = 76
+
+[2018-02-06:15:32:56] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:39:15] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:39:32] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:40:12] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:40:17] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:43:16] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:47:11] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:47:17] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:47:30] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:15:47:32] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:15:49:32] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:15:50:03] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:15:59:22] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:15:59:50] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:16:00:03] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:16:00:13] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:16:02:29] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-02-06:16:02:33] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:16:05:45] INSERT INTO instansi(nama_instansi, alamat, kota, telp, hp, email, website, kontak_person) VALUES (sdads, dsadsa, dsads, 213123, 213321, dsadsa, asddsa, dsasda)
+
+[2018-02-06:16:05:46] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:16:09:20] UPDATE instansi SET nama_instansi = sdads21, alamat = dsadsa, kota = dsads, telp = 213123, email = dsadsa, website = asddsa, kontak_person = dsasda WHERE instansi_id = 
+
+[2018-02-06:16:10:17] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:16:10:24] UPDATE instansi SET nama_instansi = sdads21, alamat = dsadsa, kota = dsads, telp = 213123, email = dsadsa, website = asddsa, kontak_person = dsasda WHERE instansi_id = 13
+
+[2018-02-06:16:10:25] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:16:10:48] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:16:10:56] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:16:19:27] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:16:19:35] DELETE FROM instansi WHERE instansi_id = 12
+
+[2018-02-06:16:19:35] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:16:19:40] DELETE FROM instansi WHERE instansi_id = 13
+
+[2018-02-06:16:19:40] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:16:20:11] INSERT INTO instansi(nama_instansi, alamat, kota, telp, hp, email, website, kontak_person) VALUES (asdsaddsa, dsajalksdj, jklsajd, 827, 1239, dsahkhd, ahskdh, dakhs)
+
+[2018-02-06:16:20:13] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-02-06:16:20:22] DELETE FROM instansi WHERE instansi_id = 14
+
+[2018-02-06:16:20:23] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-03-06:05:56:57] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:03:02] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:03:19] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:03:30] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:06:49] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:07:26] INSERT INTO jenis(jenis, keterangan) VALUES (dadsa,dasads)
+
+[2018-03-06:06:07:27] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:08:02] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:08:05] DELETE FROM jenis WHERE jenis_id = 5
+
+[2018-03-06:06:08:05] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:09:46] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:09:55] INSERT INTO jenis(jenis, keterangan) VALUES (fggh,dfdfdgdf)
+
+[2018-03-06:06:09:56] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:10:02] UPDATE jenis SET jenis = fgg, keterangan = dfdfdgdf WHERE jenis_id=6
+
+[2018-03-06:06:10:06] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:10:47] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:10:51] UPDATE jenis SET jenis = fgg2, keterangan = dfdfdgdf WHERE jenis_id=6
+
+[2018-03-06:06:10:52] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:10:55] DELETE FROM jenis WHERE jenis_id = 6
+
+[2018-03-06:06:10:56] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:11:37] UPDATE jenis SET jenis = Surat Dinas, keterangan = Surat Dinas WHERE jenis_id=1
+
+[2018-03-06:06:11:38] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:12:08] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-03-06:06:12:12] Buka Halaman Bagian (admin@gmail.com)
+
+[2018-03-06:06:12:17] Buka Halaman Lokasi (admin@gmail.com)
+
+[2018-03-06:06:14:22] Buka Halaman Lokasi (admin@gmail.com)
+
+[2018-03-06:06:16:20] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:16:52] Buka Halaman Lokasi (admin@gmail.com)
+
+[2018-03-06:06:17:07] Buka Halaman Tambah Lokasi (admin@gmail.com)
+
+[2018-03-06:06:18:36] INSERT INTO lokasi(lokasi, keterangan) VALUES (asdsd,adssda)
+
+[2018-03-06:06:18:38] Buka Halaman Lokasi (admin@gmail.com)
+
+[2018-03-06:06:19:18] Buka Halaman Lokasi (admin@gmail.com)
+
+[2018-03-06:06:20:24] Buka Halaman Lokasi (admin@gmail.com)
+
+[2018-03-06:06:20:37] Buka Halaman Lokasi (admin@gmail.com)
+
+[2018-03-06:06:21:27] UPDATE lokasi SET lokasi = asdsd21, keterangan = adssda WHERE lokasi_id=9
+
+[2018-03-06:06:21:28] Buka Halaman Lokasi (admin@gmail.com)
+
+[2018-03-06:06:21:31] DELETE FROM lokasi WHERE lokasi_id = 9
+
+[2018-03-06:06:21:31] Buka Halaman Lokasi (admin@gmail.com)
+
+[2018-03-06:06:22:54] Buka Halaman Lokasi (admin@gmail.com)
+
+[2018-03-06:06:23:09] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-03-06:06:23:13] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:23:25] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-03-06:06:23:32] Buka Halaman Block IP (admin@gmail.com)
+
+[2018-03-06:06:33:12] Buka Halaman Block IP (admin@gmail.com)
+
+[2018-03-06:06:34:48] Buka Halaman Block IP (admin@gmail.com)
+
+[2018-03-06:06:34:54] INSERT INTO block_ip(ip, keterangan) VALUES (sasda,sdadas)
+
+[2018-03-06:06:34:55] Buka Halaman Block IP (admin@gmail.com)
+
+[2018-03-06:06:36:09] Buka Halaman Block IP (admin@gmail.com)
+
+[2018-03-06:06:36:15] UPDATE block_ip SET ip = sasda22, keterangan = sdadas WHERE blockip_id=46
+
+[2018-03-06:06:36:59] Buka Halaman Block IP (admin@gmail.com)
+
+[2018-03-06:06:37:02] Buka Halaman Block IP (admin@gmail.com)
+
+[2018-03-06:06:37:07] UPDATE block_ip SET ip = sasda, keterangan = sdadas WHERE blockip_id=46
+
+[2018-03-06:06:37:08] Buka Halaman Block IP (admin@gmail.com)
+
+[2018-03-06:06:38:08] Buka Halaman Block IP (admin@gmail.com)
+
+[2018-03-06:06:38:12] DELETE FROM block_ip WHERE blockip_id = 46
+
+[2018-03-06:06:38:12] Buka Halaman Block IP (admin@gmail.com)
+
+[2018-03-06:06:38:31] Buka Halaman Block IP (admin@gmail.com)
+
+[2018-03-06:11:52:53] DELETE FROM log
+
+[2018-03-06:11:53:08] DELETE FROM log
+
+[2018-03-06:11:55:05] User (admin@gmail.com) Logout
+
+[2018-03-06:12:00:46] Buka Halaman Bagian ()
+
+[2018-03-06:12:07:01] User (admin@gmail.com) Logout
+
+[2018-03-06:12:09:08] Buka Halaman Instansi (user@gmail.com)
+
+[2018-03-06:12:09:12] Buka Halaman Bagian (user@gmail.com)
+
+[2018-03-06:12:09:39] User (user@gmail.com) Logout
+
+[2018-03-06:12:09:49] Buka Halaman Surat Masuk (admin@gmail.com)
+
+[2018-03-06:12:10:17] Buka Halaman Backup (admin@gmail.com)
+
+[2018-03-06:12:10:32] Buka Halaman Backup (admin@gmail.com)
+
+[2018-03-06:12:10:39] Buka Halaman Backup (admin@gmail.com)
+
+[2018-03-06:12:10:41] Buka Halaman Restore Database (admin@gmail.com)
+
+[2018-03-06:13:13:14] Buka Halaman Backup (admin@gmail.com)
+
+[2018-03-06:13:13:18] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-03-06:13:13:22] DELETE FROM instansi WHERE instansi_id = 9
+
+[2018-03-06:13:13:22] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-03-06:13:14:29] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-03-06:13:14:36] Buka Halaman Surat Masuk (admin@gmail.com)
+
+[2018-03-06:13:16:37] Buka Halaman Surat Masuk (admin@gmail.com)
+
+[2018-03-06:13:16:54] Buka Menu Identitas (admin@gmail.com)
+
+[2018-03-06:13:28:01] UPDATE identitas SET nama_identitas = SMK Negeri 1 Jenangan2, alamat = Jl. Niken Gandini No. 98, Setono, Jenangan, telp = 352481236, kota = Ponorogo, website = www.smkn1jenpo.sch.id, pemilik = -, keuangan = Bank Aldana WHERE identitas_id = 1
+
+[2018-03-06:13:28:08] UPDATE identitas SET nama_identitas = SMK Negeri 1 Jenangan, alamat = Jl. Niken Gandini No. 98, Setono, Jenangan, telp = 352481236, kota = Ponorogo, website = www.smkn1jenpo.sch.id, pemilik = -, keuangan = Bank Aldana WHERE identitas_id = 1
+
+[2018-03-06:13:28:52] UPDATE identitas SET nama_identitas = SMK Negeri 1 Jenangan, alamat = Jl. Niken Gandini No. 98, Setono, Jenangan, telp = 352481236, kota = Ponorogo, website = www.smkn1jenpo.sch.id, pemilik = -, keuangan = Bank Aldana WHERE identitas_id = 1
+
+[2018-04-06:05:00:39] UPDATE identitas SET logo_kiri =unsa.jpg WHERE identitas_id = 1
+
+[2018-04-06:05:01:12] UPDATE identitas SET logo_kiri =karawang_tuparev_wpap_by_jodiartz-dbtlu9b.jpg WHERE identitas_id = 1
+
+[2018-04-06:05:03:34] UPDATE identitas SET logo_kanan =karawang_tuparev_wpap_by_jodiartz-dbtlu9b.jpg WHERE identitas_id = 1
+
+[2018-04-06:05:05:50] User (admin@gmail.com) Logout
+
+[2018-04-06:05:07:16] User (user@gmail.com) Logout
+
+[2018-04-06:05:07:55] Buka Halaman User (admin@gmail.com)
+
+[2018-04-06:05:31:14] Buka Halaman User (admin@gmail.com)
+
+[2018-04-06:05:31:22] User (admin@gmail.com) Logout
+
+[2018-04-06:05:32:20] Buka Halaman User (2)
+
+[2018-04-06:05:59:32] Buka Halaman Tambah User (2)
+
+[2018-04-06:06:03:43] Buka Halaman User (admin@gmail.com)
+
+[2018-04-06:06:12:15] INSERT INTO user(email, level, nama, password) VALUES (test@gmail.com,User,sad,34dc21dee723e965b9a5e5ee9c8965b1)
+
+[2018-04-06:06:13:06] INSERT INTO user(email, level, nama, password) VALUES (test@gmail.com,User,sad,34dc21dee723e965b9a5e5ee9c8965b1)
+
+[2018-04-06:06:13:07] Buka Halaman User (2)
+
+[2018-04-06:06:14:42] Buka Halaman User (2)
+
+[2018-04-06:06:16:55] Buka Halaman User (2)
+
+[2018-04-06:06:17:05] UPDATE user SET email = , level = User, nama = sad22, password = d41d8cd98f00b204e9800998ecf8427e WHERE user_id=8
+
+[2018-04-06:06:17:39] Buka Halaman User (2)
+
+[2018-04-06:06:17:45] UPDATE user SET email = test@gmail.com, level = User, nama = sad22, password = d41d8cd98f00b204e9800998ecf8427e WHERE user_id=8
+
+[2018-04-06:06:18:01] Buka Halaman User (2)
+
+[2018-04-06:06:42:21] Buka Halaman User (2)
+
+[2018-04-06:06:42:23] Buka Halaman User (2)
+
+[2018-04-06:06:42:28] DELETE FROM user WHERE user_id = 8
+
+[2018-04-06:06:42:28] Buka Halaman User (2)
+
+[2018-04-06:06:42:33] DELETE FROM user WHERE user_id = 9
+
+[2018-04-06:06:42:33] Buka Halaman User (2)
+
+[2018-04-06:06:42:49] Buka Halaman Surat Masuk (2)
+
+[2018-04-06:07:04:24] Buka Halaman Surat Masuk (admin@gmail.com)
+
+[2018-04-06:07:04:32] Buka Halaman Surat Masuk (admin@gmail.com)
+
+[2018-04-06:07:06:58] Buka Halaman Surat Masuk (admin@gmail.com)
+
+[2018-04-06:07:54:17] Buka Halaman Surat Masuk (admin@gmail.com)
+
+[2018-04-06:07:56:27] Buka Halaman Surat Masuk (admin@gmail.com)
+
+[2018-04-06:07:56:35] Buka Halaman Surat Masuk (admin@gmail.com)
+
+[2018-04-06:07:57:38] Buka Halaman Backup (2)
+
+[2018-04-06:07:57:40] Buka Halaman Backup (2)
+
+[2021-01-01:04:52:20] Buka Halaman Backup (admin@gmail.com)
+
+[2021-01-01:04:52:23] Buka Halaman User (admin@gmail.com)
+
+[2021-01-01:04:53:11] Buka Halaman User (admin@gmail.com)
+
+[2021-01-01:04:53:23] Buka Halaman Instansi (admin@gmail.com)
+
+[2021-01-01:04:53:39] Buka Halaman Bagian (admin@gmail.com)
+
+[2021-01-01:04:53:50] Buka Halaman User (admin@gmail.com)
+
+[2021-01-01:04:54:21] Buka Halaman User (admin@gmail.com)
+
+[2021-01-01:04:55:37] Buka Halaman User (admin@gmail.com)
+
+[2021-01-01:04:55:58] Buka Halaman User ()
+
+[2021-01-01:04:58:13] Buka Halaman Surat Masuk ()
+
+[2021-01-01:04:58:16] Buka Halaman Laporan Instansi (admin@gmail.com)
+
+[2021-01-01:04:58:46] Buka Halaman Laporan Instansi (admin@gmail.com)
+
+[2021-01-01:05:01:03] Buka Halaman Laporan Instansi (admin@gmail.com)
+
+[2021-01-01:05:01:28] Buka Halaman Laporan Instansi (admin@gmail.com)
+
+[2021-01-01:05:01:56] Buka Halaman Laporan Instansi (admin@gmail.com)
+
+[2021-01-01:05:03:21] Buka Halaman Laporan Instansi (admin@gmail.com)
+
+[2021-01-01:05:05:14] Buka Halaman Laporan Instansi (admin@gmail.com)
+
